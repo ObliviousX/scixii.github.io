@@ -1,8 +1,8 @@
-Origin: CrazyBloo's Repo
-Label: CrazyBloo's Repo
+Origin: Sprx.SH's Repo
+Label: Sprx.SH's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: CrazyBloo's testing repo
+Description: Sprx.SH's testing repo
