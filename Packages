@@ -1,28 +1,26 @@
-Package: com.supermamon.newpackage
-Version: 0.1a
+Package: com.r333d.cylinder
+Version: 1.0.6
 Section: Tweaks
-Maintainer: CrazyBloo <CrazyBloo@gmail.com>
+Maintainer: Sprx.SH <danhockly@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: Modern Bytafont Alternative
-Name: Fontix (Disabled!)
-Author: CrazyBloo <crazybloogamimg@gmail.com>
-Depiction: https://crazybloo.github.io/depictions/?p=com.crazybloo.fontix
+Filename: ./debs/cylinder.deb
+Size: 249
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016 
+.
+Description: 
+Compatible with iOS 7+
+Compatible with CarPlay
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.oldpackage
+Sexy homescreen icon animations
 
+Currently there are 45 icon effects.
+
+If you take combinations into account, then there are 35,184,372,088,832 effects.
+
+If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in /Library/Cylinder.
+
+You can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.
+Name: Cylinder
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Depiction: http://apt.thebigboss.org/onepackage.php?bundleid=com.r333d.cylinder
