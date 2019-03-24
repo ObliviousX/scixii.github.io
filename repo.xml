@@ -1,8 +1,13 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Instagram</name>
+			<name>Follow Me on Instagram</name>
 			<url>https://instagram.com/sprx.sh</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
+			<name>Follow My Beautiful Girl ;D</name>
+			<url>https://instagram.com/rjmk</url>
 			<iconclass>fa fa-instagram</iconclass>
 		</link>
 	</footerlinks>
