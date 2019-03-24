@@ -1,7 +1,7 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>com.r333d.cylinder</id>
 	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Outdated! Please use a Newer Package</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
