@@ -1,7 +1,7 @@
 <package>
-	<id>Cylinder</id>
+	<id>com.sprxsh.cylinder</id>
 	<name>Old Package</name>
-	<version>1.0.5</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
